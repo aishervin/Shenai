@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Hexagonal / Diamond Shield -->
+    <path
+        android:pathData="M54,26 L78,40 L78,68 L54,82 L30,68 L30,40 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:fillColor="#1000E5FF" />
+
+    <!-- Magenta Secondary Shield Accent -->
+    <path
+        android:pathData="M54,30 L74,42 L74,66 L54,78 L34,66 L34,42 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#7B2FF7"
+        android:fillColor="#00000000" />
+
+    <!-- Stylized "Ξ" and "Z" Neural Bars for SHΞN ZERO -->
+    <!-- Top Horizontal Bar with Pink/Cyan Gradient -->
+    <path
+        android:pathData="M40,43 L68,43"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FF3D81"
+        android:strokeLineCap="round" />
+
+    <!-- Diagonal Z connector -->
+    <path
+        android:pathData="M65,44 L43,64"
+        android:strokeWidth="3.2"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+
+    <!-- Center Neural Pulse Beam -->
+    <path
+        android:pathData="M44,53.5 L64,53.5"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Bottom Horizontal Bar -->
+    <path
+        android:pathData="M40,64 L68,64"
+        android:strokeWidth="3.5"
+        android:strokeColor="#7B2FF7"
+        android:strokeLineCap="round" />
+
+    <!-- Glowing Core Nodes -->
+    <path
+        android:pathData="M54,35 A2,2 0 1,0 54,39 A2,2 0 1,0 54,35 Z"
+        android:fillColor="#00E5FF" />
+    <path
+        android:pathData="M54,69 A2,2 0 1,0 54,73 A2,2 0 1,0 54,69 Z"
+        android:fillColor="#FF3D81" />
+    <path
+        android:pathData="M37,53.5 A1.8,1.8 0 1,0 37,57.1 A1.8,1.8 0 1,0 37,53.5 Z"
+        android:fillColor="#00E5FF" />
+    <path
+        android:pathData="M71,53.5 A1.8,1.8 0 1,0 71,57.1 A1.8,1.8 0 1,0 71,53.5 Z"
+        android:fillColor="#7B2FF7" />
+</vector>

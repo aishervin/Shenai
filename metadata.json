@@ -1,0 +1,6 @@
+{
+  "name": "SHΞN™ᴢᴇʀᴏ",
+  "description": "SHΞN™ᴢᴇʀᴏ - Next-generation AI Chat Client with custom neural models, RGB ambient illumination, and real-time session persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
